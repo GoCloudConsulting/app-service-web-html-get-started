@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/37566ddb-dda2-4bf1-b003-7bbf27aa1da8/microsoft.web/sites/subscriptions/37566ddb-dda2-4bf1-b003-7bbf27aa1da8/resourceGroups/WAF/providers/Microsoft.Web/sites/gcc-app-service-web-html-get-started",
+    "appService.deploySubpath": "."
+}
